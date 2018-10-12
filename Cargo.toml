@@ -1,0 +1,8 @@
+[package]
+name = "blockchain"
+version = "0.1.0"
+authors = ["Mike Sparr <mike@goomzee.com>"]
+
+[dependencies]
+rust-crypto = "^0.2"
+quick-error = "1.2.1"
